@@ -14,7 +14,7 @@ git clone https://github.com/zogojogo/animal-image-embedding-wii.git
 Go to the project directory
 
 ```bash
-cd animals-embedding
+cd animals-embedding-wii
 ```
 
 Download Dependencies
